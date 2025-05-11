@@ -21,10 +21,6 @@ portfolio-projetos/
 │   ├── site-portfolio/
 
 
-│   └── bot-telegram/
-
-
-
 └── certificados-cursos/
 
 
