@@ -1,7 +1,7 @@
-# PORTIFOLIO-PROJETOS
+# PORTFÓLIO-PROJETOS
 Repositório com projetos acadêmicos e pessoais desenvolvidos durante minha formação.
 
-portfolio-projetos/
+portfólio-projetos/
 │
 ├── README.md
 
@@ -18,7 +18,7 @@ portfolio-projetos/
 ├── projetos-pessoais/
 
 
-│   ├── site-portfolio/
+│   ├── site-portfólio/
 
 
 └── certificados-cursos/
