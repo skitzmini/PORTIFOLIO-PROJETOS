@@ -4,12 +4,14 @@
 - **Descrição:** Projeto de introdução à programação.
 - **Tecnologias:** Python
 - **Caminho:** `/projetos-academicos/calculadora-simples`
+- em desenvolvimento.
   
 
 ### 🖥 Projeto 2 – Página Web Pessoal
 - **Descrição:** Página web com HTML, CSS e JavaScript para apresentação pessoal.
 - **Tecnologias:** HTML, CSS, JS
 - **Caminho:** `/projetos-pessoais/pagina-web`
+- em desenvolvimento.
   
 
 ---
