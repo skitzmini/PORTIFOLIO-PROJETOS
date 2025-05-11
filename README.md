@@ -1,27 +1,29 @@
-# PORTFÓLIO-PROJETOS
-Repositório com projetos acadêmicos e pessoais desenvolvidos durante minha formação.
+## 🚀 Projetos em Destaque
 
-portfólio-projetos/
-│
-├── README.md
+### 📘 Projeto 1 – Calculadora Simples em Python
+- **Descrição:** Projeto de introdução à programação.
+- **Tecnologias:** Python
+- **Caminho:** `/projetos-academicos/calculadora-simples`
+  
 
+### 🖥 Projeto 2 – Página Web Pessoal
+- **Descrição:** Página web com HTML, CSS e JavaScript para apresentação pessoal.
+- **Tecnologias:** HTML, CSS, JS
+- **Caminho:** `/projetos-pessoais/pagina-web`
+  
 
-├── projetos-academicos/
+---
 
+## 🛠 Tecnologias Utilizadas
 
-│   ├── calculadora-python/
+- Git & GitHub
+- Python
+- HTML, CSS, JavaScript
+- GitHub Pages (em breve)
 
+---
 
-│   └── sistema-biblioteca/
+## 📎 Integração com LinkedIn
 
-
-├── projetos-pessoais/
-
-
-│   ├── site-portfólio/
-
-
-└── certificados-cursos/
-
-
-    └── README.md
+📌 [Perfil LinkedIn](https://www.linkedin.com/in/enrico-cesar-benicio-dantas-ba0517365/)  
+📌 Projeto adicionado na seção **Projetos** do perfil.
